@@ -21,6 +21,7 @@ This project is a Full Stack Dashboard built with React, Firebase, Sass, Rechart
 - **Custom Styling:** Sass is used for styling to enhance maintainability and allow for easy customization.
 - **Interactive Charts:** Recharts is integrated to create interactive and visually appealing charts.
 - **Material Design:** Material-UI components are used to maintain a consistent and modern design.
+- **Dark Mode:** You can switch b/w dark mode and light mode.
 
 ## Getting Started
 
