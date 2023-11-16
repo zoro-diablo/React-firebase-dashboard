@@ -1,5 +1,7 @@
 # Full Stack Dashboard Project
 
+[![Screenshot-2023-11-15-194942.png](https://i.postimg.cc/pTcs42d2/Screenshot-2023-11-15-194942.png)](https://postimg.cc/62RVGxRS)
+
 ## Overview
 
 This project is a Full Stack Dashboard built with React, Firebase, Sass, Recharts, and Material-UI. It provides a dynamic and responsive user interface for visualizing data and managing various aspects of your application.
